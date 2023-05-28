@@ -1,0 +1,40 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/foliage.shader_c"
+
+	//---- Animation ----
+	F_MORPH_SUPPORTED 1
+
+	//---- Foliage Animation ----
+	F_FOLIAGE_ANIMATION 1 // Vertex Color Based
+
+	//---- Rendering ----
+	F_ALPHA_TEST 1
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Foliage Animation ----
+	g_flBranchAmplitude "0.300"
+	g_flBranchFrequency "0.330"
+	g_flEdgeAmplitude "0.300"
+	g_flEdgeFrequency "0.330"
+	g_flTrunkDeflection "0.000"
+	g_flTrunkDeflectionStart "0.000"
+
+	//---- Material ----
+	g_flTintColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureAmbientOcclusion "materials/default/default_ao.tga"
+	TextureColor "models/foliage/plant_01/plant_01_color.tga"
+	TextureMetalness "materials/default/default_metal.tga"
+	TextureNormal "models/foliage/plant_01/plant_01_normal.png"
+	TextureRoughness "models/foliage/plant_01/plant_01_rough.png"
+	TextureTintMask "materials/default/default.tga"
+	TextureTranslucency "models/foliage/plant_01/plant_01_color_trans.tga"
+
+	//---- Translucent ----
+	g_flAlphaTestReference "0.474"
+	g_flAntiAliasedEdgeStrength "1.000"
+}

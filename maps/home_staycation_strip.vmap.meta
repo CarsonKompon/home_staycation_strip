@@ -1,0 +1,29 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": null,
+      "Type": null,
+      "Org": null,
+      "Ident": null,
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "fish.ground_blendable#16471",
+        "baik.doublet_pavement#12022",
+        "exorealms.17c1531bdc5c7b13#16297",
+        "bea.tree_1a#11287",
+        "andiq.marble016_2k#17180",
+        "facepunch.concrete_pol_01#17391",
+        "luke.office_plant#12932"
+      ],
+      "Metadata": {}
+    }
+  }
+}

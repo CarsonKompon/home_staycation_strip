@@ -1,12 +1,12 @@
 {
   "publish": {
-    "Enabled": false,
+    "Enabled": true,
     "ProjectConfig": {
-      "Title": null,
-      "Type": null,
-      "Org": null,
-      "Ident": null,
-      "Tags": null,
+      "Title": "Staycation Strip",
+      "Type": "map",
+      "Org": "carsonk",
+      "Ident": "home_staycation_strip",
+      "Tags": "home strip mall villa",
       "Schema": 0,
       "HasAssets": false,
       "AssetsPath": null,
@@ -23,7 +23,15 @@
         "facepunch.concrete_pol_01#17391",
         "luke.office_plant#12932"
       ],
-      "Metadata": {}
+      "Metadata": {
+        "SingleAssetSource": "maps/home_staycation_strip.vmap",
+        "GameSupport": [
+          "carsonk.home"
+        ],
+        "Summary": "",
+        "Description": "",
+        "Public": true
+      }
     }
   }
 }

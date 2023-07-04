@@ -1,0 +1,28 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "trivia_area",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "trivia_area",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "carsonk.home",
+        "trend.arcade1#16702"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/placeholder/trivia_area.vmap"
+      }
+    }
+  }
+}

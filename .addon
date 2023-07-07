@@ -2,7 +2,7 @@
   "Title": "Staycation Strip",
   "Type": "content",
   "Org": "local",
-  "Ident": "home_map",
+  "Ident": "home_staycation_strip",
   "Tags": null,
   "Schema": 1,
   "HasAssets": true,

@@ -1,5 +1,6 @@
 {
   "publish": {
+    "Allowed": true,
     "Enabled": true,
     "ProjectConfig": {
       "Title": "Staycation Strip",
@@ -114,7 +115,32 @@
         "facepunch.park_bin#19242",
         "facepunch.grass_clump_c#19399",
         "creation.rollerdoorsmall1#19544",
-        "facepunch.grass_clump_b#19398"
+        "facepunch.grass_clump_b#19398",
+        "fish.gt_smallcrate#23010",
+        "rust.patch_grass_short#22289",
+        "rust.rock_small_b_cave#22243",
+        "rust.rock_small_b#22242",
+        "luke.fwlamp#22889",
+        "luke.minimal_lamp#19923",
+        "luke.plain_table#22953",
+        "luke.plain_bed#22941",
+        "luke.office_flowers_1#22957",
+        "rust.cracks_grass_g#22414",
+        "rust.creeping_plant_corner_b#22314",
+        "luke.office_plant#22956",
+        "facepunch.glass_a#19946",
+        "rust.creeping_plant_a#22419",
+        "rust.patch_flowers_c#22293",
+        "rust.patch_grass_tall_large#22287",
+        "luke.tv_flatscreen#22883",
+        "luke.plain_lamp#22947",
+        "rust.creeping_plant_b#22420",
+        "rust.patch_flowers_a#22294",
+        "rust.patch_flowers_b#22292",
+        "rust.patch_flowers_d#22291",
+        "rust.rock_small_c_cave#22245",
+        "rust.patch_weeds_a#22285",
+        "rust.rock_small_c#22241"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/home_staycation_strip.vmap",
